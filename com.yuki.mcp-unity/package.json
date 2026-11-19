@@ -1,0 +1,18 @@
+{
+  "name": "com.yuki.mcp-unity",
+  "version": "0.1.0",
+  "displayName": "MCP for Unity",
+  "description": "A Model Context Protocol (MCP) server that runs inside the Unity Editor. AI assistants such as Claude Code connect over Streamable HTTP and can inspect and edit scenes, GameObjects, components, materials, prefabs and assets, read the console, compile scripts, enter Play Mode and take screenshots. No Node.js or Python required.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "keywords": [
+    "mcp",
+    "model context protocol",
+    "ai",
+    "claude",
+    "editor",
+    "automation"
+  ]
+}
